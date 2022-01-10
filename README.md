@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love singing but I sing too good to make you deaf.
 -->
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Divyanshi!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pranjal!
 
 <a href="https://www.linkedin.com/in/pranjal-singh-6ab56b1bb">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
